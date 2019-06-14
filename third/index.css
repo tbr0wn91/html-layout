@@ -1,0 +1,51 @@
+nav {
+    height: 10vh;
+    background-color: gray;
+}
+
+div {
+    height: 70px;
+    width: 70px;
+    float: left;
+    margin: 0 auto;
+    margin-left: 15px;
+    background-color: rgb(12, 80, 136);
+}
+
+.paragraph {
+    text-align: left;
+    font-size: 2em;
+    margin: 0 auto;
+    margin-top: 2%;
+    margin-left: 15%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    padding: 2%;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+section {
+    display: block;
+    padding: 5%;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.turquois {
+    background-color: teal;
+}
+
+.snot {
+    background-color: peachpuff;
+}
+
+.gold {
+    background-color: gold
+}
+

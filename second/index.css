@@ -1,0 +1,81 @@
+body {
+    background-color: white;
+}
+
+
+.shapes {
+    margin: 30px;
+    background-color: white;
+    height: 33vh;
+    border: 5px solid black;
+}
+
+.rectangle-1 {
+    background-color: purple;
+    height: 150px;
+    width: 50px;
+    display: inline-block;
+    margin: 160px 0 0 15px;
+     
+}
+
+.rectangle-2 {
+    display: inline-block;
+    padding: 50px;
+    height: 200px;
+    width: 500px;
+    background-color: green;
+    margin-left: 50px;
+    margin-right: 35px;
+    
+}
+
+.circle {
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    background-color: rgb(66, 214, 224);
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+.rectangle {
+    margin: 30px;
+    background-color: white;
+    height: 33vh;
+    border: 5px solid black;
+    border-style: dotted;
+    display: flex;
+}
+
+.shadow-box {
+    margin: auto;
+    height: 70%;
+    width: 80%;
+    padding-left: 50px;
+    background-color: bisque;
+    box-shadow: 10px 5px 5px black;
+}
+
+.hello-friends {
+    margin: 0 auto;
+    height: 25px;
+    width: 500px;
+    padding: 200px 50px;
+    background-color: white;
+    border: 1px solid gray;
+    box-shadow: 5px 5px 5px rgb(151, 151, 151);
+    margin-bottom: 30px;
+}
+
+
+p {
+    text-align: center;
+    letter-spacing: 8px;
+    width: 100%;
+    font-size: 25px;
+    color: rgb(32, 49, 145);
+    font-weight: bold;
+    
+
+}
